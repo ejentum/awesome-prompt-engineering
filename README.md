@@ -49,6 +49,7 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Promptfoo](https://promptfoo.dev/)** – Tool for testing, evaluating, and benchmarking prompts.
 - **[Chainlit](https://www.chainlit.io/)** – Open-source framework for developing LLM-powered apps with prompt visibility.
 - **[flompt](https://github.com/Nyrok/flompt)** – Open source visual prompt builder that decomposes prompts into semantic blocks and compiles them into structured formats.
+- **[Ejentum](https://ejentum.com)** – Reasoning harness. Four agentic tools (reasoning, code, anti-deception, memory) the agent calls during its loop; each returns a structured cognitive scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the model reads internally. Ships as MCP server and twelve native framework integrations on PyPI/npm.
 
 ## Research & Papers
 
